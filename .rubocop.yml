@@ -1,0 +1,4 @@
+require: rubocop-rspec
+
+inherit_from:
+  - .rubocop-pernix.yml
